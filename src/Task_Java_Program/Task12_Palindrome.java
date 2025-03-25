@@ -17,5 +17,7 @@ public class Task12_Palindrome {
         } else {
             System.out.println(str + " is not a palindrome.");
         }
+
     }
+
 }
