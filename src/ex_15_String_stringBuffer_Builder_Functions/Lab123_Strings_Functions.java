@@ -1,4 +1,4 @@
-package ex_14_Strings;
+package ex_15_String_stringBuffer_Builder_Functions;
 
 public class Lab123_Strings_Functions {
     public static void main(String[] args) {
