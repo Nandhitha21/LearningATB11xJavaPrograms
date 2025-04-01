@@ -1,11 +1,10 @@
 package Task_Java_Program;
 
-public class Task_16_Pyramid {
+public class Task16_Pyramid {
     public static void main(String[] args) {
         int rows = 5; // Number of rows
 
         for (int i = 1; i <= rows; i++) {
-            // Print spaces
             for (int j = rows; j > i; j--) {
                 System.out.print(" ");
             }
