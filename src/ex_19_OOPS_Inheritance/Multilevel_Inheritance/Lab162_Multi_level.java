@@ -1,4 +1,4 @@
-package Multilevel_Inheritance;
+package ex_19_OOPS_Inheritance.Multilevel_Inheritance;
 
 public class Lab162_Multi_level {
     public static void main(String[] args) {

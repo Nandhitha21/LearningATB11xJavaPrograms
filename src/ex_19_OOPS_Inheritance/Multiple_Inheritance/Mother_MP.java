@@ -1,4 +1,4 @@
-package Multiple_Inheritance;
+package ex_19_OOPS_Inheritance.Multiple_Inheritance;
 
 public class Mother_MP {
     void money(){

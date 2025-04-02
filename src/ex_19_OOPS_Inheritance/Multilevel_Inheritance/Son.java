@@ -1,6 +1,6 @@
-package Multilevel_Inheritance;
+package ex_19_OOPS_Inheritance.Multilevel_Inheritance;
 
-public class Son extends Father{
+public class Son extends Father {
 
     void s(){
         System.out.println("bhk3");
