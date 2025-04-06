@@ -1,6 +1,6 @@
 package ex_20_Polymorphism.methodoverriding;
 
-public class Lab167_Overriding {
+public class Lab169_Overriding {
     public static void main(String[] args) {
         Dog d1  = new Dog();
         d1.sound();

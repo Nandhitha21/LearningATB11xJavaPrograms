@@ -1,6 +1,6 @@
 package ex_20_Polymorphism.methodoverriding;
 
-public class Lab167_MethodOveriding_Automation {
+public class Lab168_MethodOveriding_Automation {
     public static void main(String[] args) {
         ChromeTC c1 = new ChromeTC();
         c1.openBrowser();
